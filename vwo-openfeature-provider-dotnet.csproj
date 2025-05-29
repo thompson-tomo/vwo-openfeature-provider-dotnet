@@ -16,6 +16,10 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <EnableDefaultCompileItems>true</EnableDefaultCompileItems>
+    <PackageLicenseExpression>APACHE-2.0</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/wingify/vwo-openfeature-provider-dotnet</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://developers.vwo.com/v2/docs/dotnet-openfeature-provider</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
